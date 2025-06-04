@@ -1,4 +1,4 @@
-// Tenemos un li de productos
+// Tenemos un li de producto
 
 const productos = [
   {nombre: "Zapato negro", tipo: "zapato", color: "negro", img: "./taco-negro.jpg"},
